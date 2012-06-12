@@ -10,4 +10,4 @@ libaries (CSS, Scss, Compass).
 ## Moved
 
 This guide has been moved to
-http://www.github.com/dfischer/betterfrontend
+http://github.com/dfischer/betterfrontend
